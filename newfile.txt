@@ -1,0 +1,3 @@
+Hello, World!
+This is my super awesome Python script.
+It writes strings to a file.
