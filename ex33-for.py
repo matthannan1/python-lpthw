@@ -2,7 +2,7 @@ def loop(val,incrementor):
     i = 0
     numbers = []
     print val
-    while i < val:
+    for i in range(0,val,incrementor):
         print "At the top, i is %d and val is %d" % (i, val)
 
         numbers.append(i)
