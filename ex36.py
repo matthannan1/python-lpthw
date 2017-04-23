@@ -168,7 +168,7 @@ def gold():
         You fill your pockets with gold and see a window that you can
         escape out of. Not wanting to face a bear, or any of the other crazy
         things in this weird castle, you jump out the window and run away home.
-        Becaue you now have a great deal of gold, you have no more worries
+        Because you now have a great deal of gold, you have no more worries
         and you and your family live happily ever after.
         The end.
         """
